@@ -47,26 +47,30 @@ Using these criteria, we identified 30 relevant publications that introduced nov
 
 The goal of the third iteration was to assess whether the proposed classification satisfied the predefined ending conditions with use cases found in existing literature. Thus, in the third iteration, we aimed to identify existing use cases that apply IoT to business processes. To ensure comprehensive coverage, we conducted a systematic search targeting use cases that explore IoT-aware business processes, encompassing both business process management and the Internet of Things domain. The search query employed (Fig. 1) was adapted from prior research conducting a systematic literature review on IoT-aware business process modelling (Compagnucci et al., 2023). 
 
-**Key Details:**
-- **Search Query Terms:** See Fig. 1 in the full report
-- **Databases:** Scopus and Web of Science
-- **Publication Criteria:** Peer-reviewed, English language, published in 2013 or later
-- **Exclusion Criteria:**
-  - EC1: Lacks a use case
-  - EC2: Use case does not outline a business process
-  - EC3: Use case does not apply IoT technology
-  - EC4: Study does not apply IoT technology to improve the business process
-- **Inclusion Criteria:**
-  - IC1: Provides detailed information about the business process
-  - IC2: Details IoT entities involved in the process
-  - IC3: Depicts interactions between IoT entities and business processes
+<div>
+  <img src="Figures/search_query.png" alt="Chart Image" width="600">
+  <p><strong>Fig 1:</strong> Search query terms for Iteration 3.</p>
+</div>
 
-**Results:** 
-- **Initial Studies Identified:** 1103
-- **Filtered Studies:** 246
-- **Final Selection:** 61 use cases after reviewing and removing redundancies
+In this iteration, we used digital libraries Scopus and Web of Science, to retrieve articles based on specified search queries. In particular, we focus on literature that was published in 2013 or later, peer-reviewed and written in English. As a result, a total of 1103 studies are collected. To reduce the number of studies produced by the previous phase, we establish exclusion criteria. These criteria specify that a research work is excluded: 
 
-[Details on Selected Use Cases](https://tinyurl.com/2ac43kms)
+**EC1**: if it fails to provide a use case or <br />
+**EC2**: if the provided use case does not clearly outline a business process or <br />
+**EC3**: if the use case does not apply IoT technology, or <br />
+**EC4**: if the research study does not apply IoT technology to improve the business process. 
+
+After this stage of study selection, 246 papers are collected. To facilitate the identification of relevant studies, we further establish the following inclusion criteria:
+
+**IC1**: The use case must provide detailed information about the business process. According to Dumas et al. (2018), a business process is defined as “a collection of inter-related events, activities and decision points that involve a number of actors and objects, which collectively lead to an outcome that is of value to at least one customer”. Thus, the following details about the business process must be included in a use case: 1) activities that comprise the process, 2) objects and actors involved in the process. <br />
+**IC2**: The use case should provide details about IoT entities that are involved in the process, including at least information about their names and types. <br />
+**IC3**: The use case must thoroughly depict the interactions between IoT entities and business processes. In line with the concept “feature of interest” introduced in SOSA ontology (Janowicz et al., 2019), the use case needs to specify which particular process object is observed or manipulated by which IoT entities.
+
+<div>
+  <img src="Figures/prisma_new.png" alt="Chart Image" width="600">
+  <p><strong>Fig 2:</strong> Study selection process for Iteration 3.</p>
+</div>
+
+Fig.2 provides an overview of the study selection process. After assessing the inclusion criteria for IC1, IC2, and IC3, 63 pieces of literature were selected. Through an examination of backward referencing, a total of 66 articles were identified as highly relevant, as they offer use cases that align with our research objectives. After reviewing all papers and eliminating redundant use cases, 61 use cases were obtained. Details about selected use cases can be found at https://tinyurl.com/2ac43kms.
 
 ---
 
