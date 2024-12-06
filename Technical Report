@@ -1,0 +1,87 @@
+# Technical Report: Literature Search Details Across Three Iterations
+
+## Introduction
+
+This report documents the literature search process undertaken as part of our method to identify and review relevant works for this study. The search was conducted in three iterative stages, each with a specific objective tailored to address distinct aspects of the research focus. A detailed explanation of each iteration is presented in the following sections.
+
+---
+
+## Iterative Literature Search Process
+
+### Iteration 1
+
+The primary objective of the first iteration was to synthesize insights from existing literature on process context classifications. In this phase, we focused on identifying literature addressing context classifications related to business processes. As a starting point, we selected the paper: *Process Mining Put into Context* (van der Aalst & Dustdar, 2012) and applied the backward and forward snowballing technique (Webster & Watson, 2002) to discover additional relevant works.
+
+**Key Details:**
+- **Databases:** Scopus and Web of Science
+- **Papers Identified:** 102
+- **Exclusion Criteria:**
+  - EC1: Articles inaccessible for review
+  - EC2: Articles not written in English
+  - EC3: Articles not peer-reviewed
+  - EC4: Articles that do not propose a novel process context classification
+
+**Results:** Seven studies were deemed relevant and proposed novel classifications of process contexts.
+
+---
+
+### Iteration 2
+
+The second iteration aimed to enrich the classification by incorporating theoretical foundations from IoT context classifications. We explored existing classifications and ontologies related to IoT contexts, starting with three systematic literature reviews:
+
+1. *Context-aware computing, learning, and big data in Internet of Things: A survey* (Sezer et al., 2018)
+2. *The MOM of context-aware systems: A survey* (Pradeep & Krishnamoorthy, 2019)
+3. *Leveraging context-awareness for Internet of Things ecosystem* (Pradeep et al., 2021)
+
+**Key Details:**
+- **Databases:** Scopus and Web of Science
+- **Papers Identified:** 369
+- **Exclusion Criteria:**
+  - EC1: Articles inaccessible for review
+  - EC2: Articles not written in English
+  - EC3: Articles not peer-reviewed
+  - EC4: Articles discussing applications based on existing IoT classifications
+  - EC5: Articles that do not propose new IoT classifications or ontologies
+
+**Results:** 30 relevant publications introduced novel IoT classifications or contributed to IoT ontology conceptualization.
+
+[Selected Papers](https://tinyurl.com/4mbjfeax)
+
+---
+
+### Iteration 3
+
+The goal of the third iteration was to assess whether the proposed classification satisfied predefined ending conditions with use cases found in existing literature. This iteration targeted use cases that explore IoT-aware business processes.
+
+**Key Details:**
+- **Search Query Terms:** See Fig. 1 in the full report
+- **Databases:** Scopus and Web of Science
+- **Publication Criteria:** Peer-reviewed, English language, published in 2013 or later
+- **Exclusion Criteria:**
+  - EC1: Lacks a use case
+  - EC2: Use case does not outline a business process
+  - EC3: Use case does not apply IoT technology
+  - EC4: Study does not apply IoT technology to improve the business process
+- **Inclusion Criteria:**
+  - IC1: Provides detailed information about the business process
+  - IC2: Details IoT entities involved in the process
+  - IC3: Depicts interactions between IoT entities and business processes
+
+**Results:** 
+- **Initial Studies Identified:** 1103
+- **Filtered Studies:** 246
+- **Final Selection:** 61 use cases after reviewing and removing redundancies
+
+[Details on Selected Use Cases](https://tinyurl.com/2ac43kms)
+
+---
+
+## Bibliography
+
+- Compagnucci, I., et al. (2023). *A systematic literature review on IoT-aware business process modeling views, requirements and notations*. [DOI](https://doi.org/10.1007/s10270-022-01049-2)
+- Dumas, M., et al. (2018). *Introduction to Business Process Management*. [DOI](https://doi.org/10.1007/978-3-662-56509-4_1)
+- Janowicz, K., et al. (2019). *SOSA: A lightweight ontology for sensors, observations, samples, and actuators*. [DOI](https://doi.org/10.1016/j.websem.2018.06.003)
+- Pradeep, P., et al. (2019). *The MOM of context-aware systems: A survey*. [DOI](https://doi.org/10.1016/j.comcom.2019.02.002)
+- Sezer, O. B., et al. (2018). *Context-aware computing, learning, and big data in Internet of Things: A survey*. [DOI](https://doi.org/10.1109/JIOT.2017.2773600)
+- van der Aalst, W. M. P., & Dustdar, S. (2012). *Process Mining Put into Context*. [DOI](https://doi.org/10.1109/MIC.2012.12)
+- Webster, J., & Watson, R. T. (2002). *Analyzing the Past to Prepare for the Future: Writing a Literature Review*. JSTOR.
