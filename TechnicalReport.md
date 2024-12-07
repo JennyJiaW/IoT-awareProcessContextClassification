@@ -39,7 +39,7 @@ This iteration yielded 369 relevant papers from Scopus and Web of Science. The f
 **EC5**: Articles that do not propose new IoT classifications or <br />
 **EC6**: Articles that do not propose new IoT ontologies <br />
 
-Using these criteria, we identified 30 relevant publications that introduced novel IoT context classifications or contributed to the conceptualization of IoT ontologies. A detailed list of selected papers from the first two iterations, highlighted in green, is available at (https://tinyurl.com/4mbjfeax).
+Using these criteria, we identified 30 relevant publications that introduced novel IoT context classifications or contributed to the conceptualization of IoT ontologies. A detailed list of selected papers from the **_first two_** iterations, highlighted in green, is available at (https://tinyurl.com/4mbjfeax).
 
 ---
 
