@@ -70,7 +70,7 @@ After this stage of study selection, 246 papers are collected. To facilitate the
   <p><strong>Fig 2:</strong> Study selection process for Iteration 3.</p>
 </div>
 
-Fig.2 provides an overview of the study selection process. After assessing the inclusion criteria for IC1, IC2, and IC3, 63 pieces of literature were selected. Through an examination of backward referencing, a total of 66 articles were identified as highly relevant, as they offer use cases that align with our research objectives. After reviewing all papers and eliminating redundant use cases, 61 use cases were obtained. Details about selected use cases can be found at https://tinyurl.com/2ac43kms.
+Fig.2 provides an overview of the study selection process. After assessing the inclusion criteria for IC1, IC2, and IC3, 63 pieces of literature were selected. Through an examination of backward referencing, a total of 66 articles were identified as highly relevant, as they offer use cases that align with our research objectives. After reviewing all papers and eliminating redundant use cases, 61 use cases were obtained. Detailed descriptions of the selected use cases and a summary of the instantiations can be found at https://tinyurl.com/2ac43kms.
 
 ---
 
